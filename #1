@@ -1,0 +1,13 @@
+/*This program finds the missing number in an array containing integers 1 through 100*/
+
+array[256];
+
+for (i=0; i<100; i++)
+{
+findNul(i);
+}
+
+findNull[i, array[])
+{
+if (array[i] == true)
+}
